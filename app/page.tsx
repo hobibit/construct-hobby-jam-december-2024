@@ -70,7 +70,7 @@ export default function Page() {
           <Card className="backdrop-blur-sm bg-white/95">
             <CardHeader>
               <CardTitle>Game Jam Details</CardTitle>
-              <CardDescription>Hosted by noolkit</CardDescription>
+              <CardDescription>Hosted by Hobibit</CardDescription>
             </CardHeader>
             <CardContent>
               <Tabs defaultValue="overview" className="w-full">
